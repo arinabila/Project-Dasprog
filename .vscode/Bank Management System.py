@@ -54,7 +54,7 @@ while True:
         b.ministatement()
 
     elif option==4:
-        print('Thanks You for using UIN Jakarta Bank .... ')
+        print('Thank You for using UIN Jakarta Bank .... ')
         break
     else:
         print('Invalid Option plz select a  valid option')
